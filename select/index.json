@@ -1,0 +1,49 @@
+{
+  "version": 1,
+  "base_track": "Ch△mp1on",
+  "base_artist": "BAE",
+  "createdAt": "2026-04-06T03:26:24.621383Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Ch△mp1on",
+      "artist": "BAE",
+      "has_synced": false,
+      "path": "select/01_Ch△mp1on_BAE.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Ch△mp1on",
+      "artist": "BAE",
+      "has_synced": false,
+      "path": "select/02_Ch△mp1on_BAE.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Ch△mp1on",
+      "artist": "BAE",
+      "has_synced": true,
+      "path": "select/03_Ch△mp1on_BAE.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Ch△mp1on",
+      "artist": "BAE",
+      "has_synced": false,
+      "path": "select/pl_01_Ch△mp1on_BAE.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "Ch△mp1on",
+      "artist": "BAE",
+      "has_synced": false,
+      "path": "select/localdb_01_Ch△mp1on_BAE.txt",
+      "repo_name": "c4ehHocfNDA"
+    }
+  ]
+}
